@@ -3,7 +3,7 @@
 //  @Author  :        raja_5
 //  @Version :        1.0
 //  @Date    :        12 Dec 2021
-//  @Detail  :        K stacks in an array
+//  @Detail  :        Min Stack O(1) extra space
 //  ============================
 //  -->
 
